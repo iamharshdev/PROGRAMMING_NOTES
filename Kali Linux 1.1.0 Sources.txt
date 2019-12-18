@@ -1,0 +1,35 @@
+
+# 
+
+# deb cdrom:[Debian GNU/Linux 7.0 _Kali_ - Official Snapshot i386 LIVE/INSTALL Binary 20140108-18:08] kali contrib main non-free
+
+
+
+#deb cdrom:[Debian GNU/Linux 7.0 _Kali_ - Official Snapshot i386 LIVE/INSTALL Binary 20140108-18:08] kali contrib main non-free
+
+
+
+
+
+
+#kali repos installed by THE ILLUSIONIST
+
+deb http://http.kali.org/kali kali main non-free contrib
+
+
+deb-src http://http.kali.org/kali kali main non-free contrib
+
+
+
+
+
+
+## Security updates
+
+
+
+deb http://security.kali.org/kali-security kali/updates main contrib non-free
+
+deb-src http://http.security.kali.org/kali-security kali/updates main contrib non-free
+
+
